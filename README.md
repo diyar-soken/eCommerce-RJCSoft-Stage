@@ -1,6 +1,6 @@
 # Progetto E-Commerce Full Stack (Stage RJCSoft)
 
-Questo repository contiene il codice sorgente completo per un'applicazione e-commerce full-stack, sviluppata nell'ambito del mio stage curricolare presso **RJCSoft** a Pisa.
+Questo repository contiene il codice sorgente completo per un'applicazione e-commerce full-stack, sviluppata nell'ambito del mio stage curricolare presso [**RJCSoft**](https://www.rjcsoft.it/) a Pisa.
 
 Il progetto è suddiviso in due componenti principali: un backend robusto basato su **Spring Boot** e un frontend dinamico realizzato con **Angular**. I dati sono gestiti tramite un database **MySQL**.
 
